@@ -1,4 +1,4 @@
 Google-Analyticator-Spanish
 ===========================
 
-Translation files for Wordpress plugin Google Analyticator
+PO and MO translation files for Wordpress plugin Google Analyticator.
